@@ -122,6 +122,9 @@ This enables high-performance analytical querying for decision-making.
 
 # 📈 Power BI Dashboard
 
+<img width="1173" height="657" alt="image" src="https://github.com/user-attachments/assets/e755604e-2bfb-417a-81e7-6c8d964704ce" />
+
+
 The dashboard provides insights into:
 
 - Revenue performance
